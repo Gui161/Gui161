@@ -14,6 +14,6 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evoluç�
 ##
 **Você tambem pode me encontrar em:**
 
-&nbsp;<a href="www.linkedin.com/in/luiz-guilherme16">
+&nbsp;<a href="https://www.linkedin.com/in/luiz-guilherme16">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
