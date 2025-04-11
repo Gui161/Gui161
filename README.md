@@ -1,16 +1,19 @@
-## Hi there 👋
+# :computer: Luiz Guilherme da Silva
 
-<!--
-**Gui161/Gui161** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor FullStack Python`**
 
-Here are some ideas to get you started:
+### 👨‍💻 Olá, seja Bem vindo ao meu perfil 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Olá! Me chamo **Luiz Guilherme**, tenho **26 anos** e sou de **São Paulo - SP**.  
+Atualmente estou no **último semestre** do curso de *Análise e Desenvolvimento de Sistemas* e venho desenvolvendo a maior parte dos meus projetos com **Python**, linguagem pela qual sou apaixonado.
+
+Estou sempre em busca de aprender mais, principalmente nas áreas de **Inteligência Artificial**, **automação** e **desenvolvimento de soluções práticas** com código.
+
+Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução por aqui! 🚀
+##
+**Você tambem pode me encontrar em:**
+
+&nbsp;<a href="www.linkedin.com/in/luiz-guilherme16">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
